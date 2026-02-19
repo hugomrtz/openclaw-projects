@@ -1,3 +1,4 @@
+## Used OpenClaw sub-agents to plan a fictive trip in Chile in 30 seconds (25 seconds to type on the keyboard)
 # Voyage fictif au Chili (solo) — 1 nov 2026 → mars 2027
 
 > **Objectif** : nature, treks, villes typiques, budget ~6 000 €.
