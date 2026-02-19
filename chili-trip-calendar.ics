@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenClaw//Chile Trip//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:chile-20261101-scl@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261108
+SUMMARY:Santiago (base) + Valparaíso
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 7 nuits x 45 000 = 315 000\n- Repas: 7 jours x 18 000 = 126 000\n- Activités: 35 000 (musées, funiculaire, miradores)\n- Transports urbains: 25 000\nDay trip Valparaíso/Viña: bus A/R ~16 000 + snacks 6 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261108-lacampana@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261110
+SUMMARY:PN La Campana (day hike) + transfert sud
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 2 nuits x 35 000 = 70 000\n- Repas: 2 jours x 18 000 = 36 000\n- Entrée parc + transport local: 18 000\n- Bus de nuit Santiago→Temuco: ~25 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261110-pucon@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261117
+SUMMARY:Pucón (base) + Araucanía
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 7 nuits x 40 000 = 280 000\n- Repas: 7 jours x 18 000 = 126 000\n- Parcs & navettes: 60 000\n- Bus Temuco→Pucón: ~9 000\nOptions: ascension Villarrica avec guide ~90 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261117-lacs@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261124
+SUMMARY:Région des Lacs (Puerto Varas)
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 7 nuits x 40 000 = 280 000\n- Repas: 7 jours x 18 000 = 126 000\n- Excursions/entrées: 55 000\n- Bus Pucón→Osorno ~12 000; Osorno→Pto Varas ~5 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261124-chiloe@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261130
+SUMMARY:Chiloé (Castro + Tantauco)
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 6 nuits x 35 000 = 210 000\n- Repas: 6 jours x 17 000 = 102 000\n- Parc Tantauco + transports locaux: 45 000\n- Bus + ferry Pto Varas→Castro A/R ~30 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261130-pumalin@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261206
+SUMMARY:Pumalín (Carretera Austral nord)
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement/camping: 6 nuits x 25 000 = 150 000\n- Repas: 6 jours x 15 000 = 90 000\n- Bus Pto Varas→Hornopirén ~8 000\n- Ferry Hornopirén→Caleta Gonzalo ~22 000\n- Parcs & navettes: 25 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261206-queulat@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261213
+SUMMARY:Chaitén → Puyuhuapi → PN Queulat
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 7 nuits x 30 000 = 210 000\n- Repas: 7 jours x 15 000 = 105 000\n- Bus Caleta Gonzalo→Chaitén ~8 000\n- Bus Chaitén→Puyuhuapi ~20 000\n- Parc Queulat + navette: 25 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261213-coyhaique@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261219
+SUMMARY:Coyhaique + Cerro Castillo
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 6 nuits x 30 000 = 180 000\n- Repas: 6 jours x 15 000 = 90 000\n- Bus Puyuhuapi→Coyhaique ~12 000\n- Bus Coyhaique→Cerro Castillo A/R ~18 000\n- Parc/permits: 15 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261219-tranquilo@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261226
+SUMMARY:Puerto Río Tranquilo + Cochrane
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 7 nuits x 30 000 = 210 000\n- Repas: 7 jours x 15 000 = 105 000\n- Bus Coyhaique→P. Río Tranquilo ~15 000\n- Bus Tranquilo→Cochrane ~18 000\n- Excursion marbre + parc: 45 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261226-transit@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261230
+SUMMARY:Transit vers Puerto Natales
+DESCRIPTION:Budget indicatif (CLP)\n- Bus long trajet Cochrane→Puerto Natales ~45 000\n- Hébergement: 4 nuits x 35 000 = 140 000\n- Repas: 4 jours x 18 000 = 72 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20261230-tdp@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270106
+SUMMARY:Torres del Paine (W Trek)
+DESCRIPTION:Budget indicatif (CLP)\n- Bus PN: A/R ~30 000\n- W Trek (refuges/camping + parc): 350 000–500 000\n- Repas (trail + refuges): 120 000\nTotal estimé: 500 000–650 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20270106-buffer@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270113
+SUMMARY:Buffer météo + Puerto Natales
+DESCRIPTION:Budget indicatif (CLP)\n- Hébergement: 7 nuits x 35 000 = 245 000\n- Repas: 7 jours x 18 000 = 126 000\n- Activités locales: 20 000.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chile-20270113-santiago@openclaw
+DTSTAMP:20260219T103000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270124
+SUMMARY:Retour Santiago + départ
+DESCRIPTION:Budget indicatif (CLP)\n- Bus/vol vers Santiago: 80 000–120 000\n- Hébergement: 11 nuits x 45 000 = 495 000\n- Repas: 11 jours x 18 000 = 198 000\n- Activités: 30 000.
+END:VEVENT
+
+END:VCALENDAR
